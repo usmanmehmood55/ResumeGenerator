@@ -1,0 +1,105 @@
+{
+  "links": {
+    "email": "your_email@gmail.com",
+    "github": "https://github.com/your_github",
+    "linkedin": "https://www.linkedin.com/in/your_linkedin",
+    "portfolioWebsite": "https://your_website.com",
+    "phoneNumber": "+49 1234 numbers"
+  },
+  "about": {
+    "name": "Your Name",
+    "professionalSummaryBullets": [
+      "3 years of total experience in electronics and embedded systems.",
+      "2 years of experience in firmware.",
+      "1 years of experience in PCB design.",
+      "Bachelor's degree in mechatronics engineering."
+    ],
+    "technicalSkills": [
+      "Firmware development of microcontrollers etc.",
+      "BLE, WiFi, i2c, SPI, CAN, UART, RS485 etc.",
+      "Development of embedded applications.",
+      "Schematic and PCB design using KiCad.",
+      "Prototype soldering, troubleshooting, debugging and reworking SMT parts."
+    ]
+  },
+  "educations": [
+    {
+      "degree": "Bachelors",
+      "major": "Mechatronics Engineering",
+      "institute": {
+        "name": "Air University Islamabad",
+        "link": "https://www.au.edu.pk/"
+      },
+      "duration": "Sep 2016 - Sep 2020",
+      "grade": null,
+      "courses": [
+        null
+      ]
+    }
+  ],
+  "experiences": [
+    {
+      "position": "Position 1",
+      "company": {
+        "name": "Company 1",
+        "link": "https://www.google.com/"
+      },
+      "duration": "Jan 2023 - Present",
+      "bulletPoints": [
+        "Developing firmware for functional safety products according to IEC 61508 and MISRA C standards.",
+        "Handling bare-metal development and writing device drivers for STM32 series microcontrollers.",
+        "Creating robust unit and integration tests, including a self-developed custom testing framework.",
+        "Creating and managing CI/CD pipelines for automated analysis and testing to ensure code quality.",
+        "Developing desktop and server apps, services and internal tools in .NET to support embedded devices.",
+        "Created supporting software for mass programming, updating, repairing and configuring the software of devices.",
+        "Implemented solutions to protect intellectual property and sensitive data while updating and repairing using obfuscation, encryption, source validation and integrity validation.",
+        "Creating and updating documentation for legacy firmware."
+      ]
+    },
+    {
+      "position": "Position 2",
+      "company": {
+        "name": "Company 2",
+        "link": "https://www.google.com/"
+      },
+      "duration": "July 2021 - Dec 2022",
+      "bulletPoints": [
+        "Was part of a team working on a home automation and energy management solution, with 10+ devices and sensors under development.",
+        "Designed low power BLE mesh nodes and increased the battery life of a node from 9 months to 3+ years by heavily optimizing its hardware and algorithms without effecting the user experience.",
+        "Was part of a team working on automotive grade controllers and PLCs.",
+        "Wrote .NET services to support CAN bus, Modbus RTU and Modbus TCP for a building energy monitoring system, storing the energy consumption data in an SQL database.",
+        "Wrote .NET WPF application for parsing and composing SAE-J1939 CAN bus symbol files in multiple formats.",
+        "Wrote .NET scripts for reverse-engineering and decoding data transmitted by a hybrid solar inverter.",
+        "Developed documentation templates for documentation of features, algorithms, and libraries in embedded software."
+      ]
+    },
+    {
+      "position": "Position 3",
+      "company": {
+        "name": "Company 3",
+        "link": "https://google.com/"
+      },
+      "duration": "Oct 2020 - June 2021",
+      "bulletPoints": [
+        "Responsible for design, development, and support for all embedded products.",
+        "Developed a wearable armband for epilepsy detection, with extremely constrained space and power conditions.",
+        "Developed firmware for nRF52 and ESP32 based custom boards and used version control.",
+        "Added performance and safety features in old circuits, and optimized old PCB designs.",
+        "Modelled and 3D printed mechanisms and enclosures for devices."
+      ]
+    },
+    {
+      "position": "Position 4",
+      "company": {
+        "name": "Company 4",
+        "link": "https://www.google.com/"
+      },
+      "duration": "June 2017 - Oct 2017",
+      "bulletPoints": [
+        "Designed and fabricated an intelligent energy monitoring system for homes and small buildings.",
+        "Schematics and PCB design using KiCad, and SolidWorks for enclosure assembly and wiring.",
+        "The energy monitoring system reduced the power usage of a house by 17% by providing intelligent analytics."
+      ]
+    }
+  ]
+}
